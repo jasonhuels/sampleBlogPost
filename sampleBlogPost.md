@@ -1,5 +1,5 @@
 # Sort and Loop Through Arrays in JavaScript
-Arrays and looping are two of the most important concepts in programming. Arrays are lists that contain multiple values that can be accessed as a collection or individually. Knowing how to sort an array is important because it can make searching an array for a particular value a much faster process. In this post we'll go over the basics of declaring, sorting, and looping through arrays in JavaScript.
+Arrays and looping are two of the most important concepts in programming. Arrays are lists that contain multiple values that can be accessed as a collection or individually. Knowing how to sort an array is important because it can make searching an array for a particular value a much faster process. In this post we'll go over the basics of declaring, sorting, and looping through arrays in JavaScript. See the complete code for this post: https://github.com/jasonhuels/sampleBlogPost
 ## Let It Be an Array
 Arrays in JavaScript can be created by declaring the name of the array and assigning it's values inside of square brackets:
 ```sh
